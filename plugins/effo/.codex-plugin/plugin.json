@@ -1,0 +1,30 @@
+{
+  "name": "effo",
+  "description": "Work with Effo apps, agents, and workflow runs.",
+  "author": { "name": "Effo", "url": "https://effo.ai" },
+  "homepage": "https://effo.ai",
+  "keywords": ["effo", "apps", "agents", "workflows"],
+  "version": "0.1.0",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Effo",
+    "shortDescription": "Build apps, configure agents, and investigate runs in Effo.",
+    "longDescription": "Connect your Effo organization to discover apps and agents, configure agent drafts, and investigate workflow runs using their recorded status and logs. Use your existing Effo account and permissions.",
+    "developerName": "Effo",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://effo.ai",
+    "privacyPolicyURL": "https://effo.ai/legal/privacy",
+    "termsOfServiceURL": "https://effo.ai/legal/terms",
+    "brandColor": "#eff000",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Show me the apps and agents in my Effo organization.",
+      "Create a draft Effo agent for my weekly operations summary.",
+      "Investigate recent failed workflow runs in Effo."
+    ],
+    "logoDark": "./assets/icon.svg"
+  }
+}

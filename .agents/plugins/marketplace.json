@@ -1,0 +1,12 @@
+{
+  "name": "effo",
+  "interface": { "displayName": "Effo" },
+  "plugins": [
+    {
+      "name": "effo",
+      "source": { "source": "local", "path": "./plugins/effo" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

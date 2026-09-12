@@ -1,0 +1,16 @@
+{
+  "client": "chatgpt",
+  "version": "0.1.0",
+  "files": {
+    ".agents/plugins/marketplace.json": "4295fba31d071e5917f7e27d2654d54501dd4f1d7029d852e488a8d8a51bc334",
+    "plugins/effo/.codex-plugin/plugin.json": "bf3a06eb9bd687cb7596fc4cc3358dbc2992f11c7369a94a7db6fae5a13037f6",
+    "plugins/effo/.mcp.json": "391b9a3453debcea8fbee6274b2e76265d6294d7ceaeac079577139139d29b58",
+    "plugins/effo/assets/icon.svg": "215b4fb27b4cb0aa9da1a421d7de69ad355fd5b617f520e2a6e25414f7337f53",
+    "plugins/effo/mcp.json": "4bd7719b77dbd323f7a5696819e7e58121f09359317702ba005641af4dff6adb",
+    "plugins/effo/plugin.json": "2f7d8e4758facf97b26ea2d74cd0c4334927cc0b1340c925e5404399272bb292",
+    "plugins/effo/skills/effo-agent/SKILL.md": "4c445807def9a600c2d9048ba8299f69e21f43f3fd8f64eb63f409c01a8613f8",
+    "plugins/effo/skills/effo-explore/SKILL.md": "8a9439986e5ce0b56e8bf0d4fc74233559cec284080d49e2c0f547a92ec6959d",
+    "plugins/effo/skills/effo-runs/SKILL.md": "75482c2e26d4fb4963ec2b60523a728c033a198581961ee09c006465e5ebea3f",
+    "README.md": "abeb7bc3c104ce4415b9a0828287cf2dc8d77ae36031829fda9c9befed6cd328"
+  }
+}
